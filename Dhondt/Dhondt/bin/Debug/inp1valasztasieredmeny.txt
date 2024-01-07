@@ -1,0 +1,7 @@
+1 választási eredmény
+PártA - 47000
+PártB - 16000
+PártC - 15900
+PártD - 12000
+PártE - 6000
+PártF - 3100

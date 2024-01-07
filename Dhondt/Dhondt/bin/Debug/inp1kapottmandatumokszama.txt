@@ -1,0 +1,6 @@
+1. választás végeredménye
+PártA: 5db
+PártB: 2db
+PártC: 1db
+PártD: 1db
+PártE: 1db

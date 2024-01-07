@@ -1,0 +1,7 @@
+Statisztika1
+PártA: 47%
+PártB: 16%
+PártC: 15,9%
+PártD: 12%
+PártE: 6%
+PártF: 3,1%

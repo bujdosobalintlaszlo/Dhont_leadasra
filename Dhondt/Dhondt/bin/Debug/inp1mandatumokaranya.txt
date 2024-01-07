@@ -1,0 +1,5 @@
+PártA: 50%
+PártB: 20%
+PártC: 10%
+PártD: 10%
+PártE: 10%
